@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "763BYZG6SP.josmall.BetsWithFriends",
+        "paths": ["/invite/*", "/reset", "/reset/*"]
+      }
+    ]
+  }
+}
