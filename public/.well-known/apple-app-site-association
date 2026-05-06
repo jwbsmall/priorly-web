@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "763BYZG6SP.josmall.Priorly",
-        "paths": ["/invite/*", "/reset", "/reset/*"]
+        "paths": ["/invite/*", "/reset", "/reset/*", "/auth/confirm", "/auth/confirm/*"]
       }
     ]
   }
